@@ -12,3 +12,10 @@ F:\VSProject\Visual Studio 2013\ImportExcel\ImportExcel\bin\Debug\NPOI.dll
 F:\VSProject\Visual Studio 2013\ImportExcel\ImportExcel\obj\Debug\ImportExcel.exe
 F:\VSProject\Visual Studio 2013\ImportExcel\ImportExcel\obj\Debug\ImportExcel.pdb
 F:\VSProject\Visual Studio 2013\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csprojResolveAssemblyReference.cache
+D:\GitHub\Project_01\ImportExcel\ImportExcel\bin\Debug\ImportExcel.exe.config
+D:\GitHub\Project_01\ImportExcel\ImportExcel\obj\Debug\ImportExcel.exe
+D:\GitHub\Project_01\ImportExcel\ImportExcel\obj\Debug\ImportExcel.pdb
+D:\GitHub\Project_01\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csprojResolveAssemblyReference.cache
+D:\GitHub\Project_01\ImportExcel\ImportExcel\bin\Debug\ImportExcel.exe
+D:\GitHub\Project_01\ImportExcel\ImportExcel\bin\Debug\ImportExcel.pdb
+D:\GitHub\Project_01\ImportExcel\ImportExcel\bin\Debug\NPOI.dll
